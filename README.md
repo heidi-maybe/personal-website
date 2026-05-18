@@ -1,3 +1,6 @@
+# Work IN PROGRESS - still in development
+Below is the generated readme from Next.js. Will be changing in the future.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
